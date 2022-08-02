@@ -2,7 +2,7 @@ import axios from "axios";
 
 const instance = axios.create({
     // THE API (cloud function) URL
-    baseURL: "https://us-central1-clone-9ed63.cloudfunctions.net/api"
+    baseURL: "After Deploying replace its url with it "
 
     //http://localhost:5001/clone-9ed63/us-central1/api
 
