@@ -4,13 +4,7 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCGdZU2rSSoCWugptBT4k70_pJDh__62Oc",
-    authDomain: "clone-9ed63.firebaseapp.com",
-    projectId: "clone-9ed63",
-    storageBucket: "clone-9ed63.appspot.com",
-    messagingSenderId: "819371082719",
-    appId: "1:819371082719:web:59932310d3d156d381ba6a",
-    measurementId: "G-N759DG2L70"
+   Add Yours
 };
 
 // Some to do Same Steps Everytime
